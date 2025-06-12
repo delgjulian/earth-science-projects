@@ -1,2 +1,11 @@
-# earth-science-projects
-Collection of Colab and Python-based projects in Geology, Earth Science, and Geoscience.
+# Earth Science Projects 🌍
+
+This repository contains a curated collection of Google Colab notebooks and Python code focused on Geology, Earth Science, and Geoscience applications.
+
+## 📌 Notebooks
+
+...
+
+## 🌐 Author
+Julián Delgadillo  
+📫 [Your email or website here]
