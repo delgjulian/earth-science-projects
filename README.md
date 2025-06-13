@@ -8,4 +8,4 @@ This repository contains a curated collection of Google Colab notebooks and Pyth
 
 ## 🌐 Author
 Julián Delgadillo  
-📫 [Your email or website here]
+📫 jadelgadillomarin@outlook.com
