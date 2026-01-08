@@ -23,10 +23,6 @@ The code emphasizes **conceptual clarity** and **physical intuition** rather tha
 
 ## 🧪 Projects Included
 
-### 🌡️ Climatology and Environmental Analysis
-- **Climatologia_Temp_Salinidad_Gerlache.pdf**  
-  Exploratory analysis of temperature and salinity variability in the Gerlache Strait (Antarctica), with implications for oceanographic and climatic processes.
-
 ---
 
 ### 🌋 Volcanology and Geophysical Monitoring
