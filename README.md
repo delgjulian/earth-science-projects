@@ -1,45 +1,46 @@
 # Earth Science Simulation Projects 🌍
 
-This repository contains a curated collection of **computational and simulation-based projects in Earth Sciences**, focused on geophysics, hydrogeology, geothermal systems, volcanology, and applied environmental modeling.
+This repository contains a collection of **exploratory computational experiments and prototype simulations** in Earth and environmental sciences.
 
-The projects combine **physics-based reasoning**, **numerical simulation**, and **data-driven analysis**, and are intended as exploratory tools, teaching prototypes, and research-oriented computational experiments.
+The projects included here are **not presented as standalone research outputs**, but rather as **technical demonstrations, learning-oriented simulations, and sandbox-style computational experiments** developed to explore physical processes, numerical methods, and visualization techniques in geosciences.
 
 ---
 
 ## 📄 Repository Overview
 
-This repository serves as a **portfolio of applied Earth Science simulations**, developed using Python and designed to explore physical processes such as:
+This repository serves as a **technical sandbox** for applied Earth Science simulations, implemented primarily in Python.  
+The scripts focus on developing **physical intuition**, **numerical reasoning**, and **conceptual understanding** of Earth system processes rather than producing finalized, publication-ready research results.
+
+The simulations explore phenomena such as:
 
 - Groundwater flow and subsurface transport
 - Geothermal system behavior
 - Rock deformation and stress propagation
 - Seismic signal exploration and visualization
-- Volcanic monitoring dashboards
-- Environmental and climatological analysis
+- Volcanic monitoring concepts
+- Environmental and climatological variables
 
-The code emphasizes **conceptual clarity** and **physical intuition** rather than black-box modeling.
+Each script is designed to be **self-contained**, modifiable, and suitable for experimentation.
 
 ---
 
 ## 🧪 Projects Included
 
----
-
 ### 🌋 Volcanology and Geophysical Monitoring
 - **Volcanoscope_Dashboard.py**  
-  Interactive dashboard for visual exploration of volcanic and geophysical signals.
+  Prototype dashboard for interactive exploration of volcanic and geophysical signals.
   
 - **Seismoscope_live.py**  
-  Real-time seismic signal visualization tool.
+  Real-time seismic signal visualization prototype.
 
 - **SeisExplore1D.py**  
-  One-dimensional seismic signal exploration and analysis.
+  One-dimensional seismic signal exploration and visualization tool.
 
 ---
 
 ### 💧 Hydrogeology and Subsurface Flow
 - **GroundwaterFlowSimulator2D.py**  
-  Two-dimensional simulator for groundwater flow and gravity anomaly interpretation.
+  Two-dimensional groundwater flow and gravity anomaly simulation.
 
 - **GroundwaterFlow2D_Part2.py**  
   Extended numerical experiments on subsurface flow dynamics.
@@ -54,23 +55,23 @@ The code emphasizes **conceptual clarity** and **physical intuition** rather tha
 
 ### 🪨 Rock Mechanics and Deformation
 - **RockDeformSim.py**  
-  Simulation of rock deformation under applied stress conditions.
+  Prototype simulation of rock deformation under applied stress conditions.
 
 ---
 
-## 🧠 Scientific Focus
+## 🧠 Scientific and Educational Focus
 
 Across projects, the repository emphasizes:
 
-- Physics-informed modeling  
-- Simplified numerical schemes for conceptual understanding  
-- Visualization as a tool for scientific insight  
+- Physics-informed reasoning  
+- Simplified numerical schemes for conceptual clarity  
+- Visualization as a scientific thinking tool  
 - Modular Python scripts for experimentation and extension  
 
-This makes the repository suitable for:
+This repository is particularly suitable for:
 - Earth Science students
-- Research assistants
-- Early-stage PhD exploration
+- Research assistants in early stages
+- Computational geoscience learning
 - Teaching demonstrations
 - Rapid prototyping of physical ideas
 
@@ -84,7 +85,7 @@ This makes the repository suitable for:
 - SciPy (where applicable)
 - Custom visualization and dashboard logic
 
-Most scripts are self-contained and designed to be run locally or adapted to notebook environments.
+Most scripts are lightweight, self-contained, and designed to be run locally or adapted to notebook-based environments.
 
 ---
 
@@ -103,21 +104,23 @@ earth-science-projects/
 
 ---
 
+
+---
+
 ## 🚀 Intended Use
 
-This repository is not a single unified software package, but rather a collection of scientific prototypes.
+This repository is **not a unified software package** nor a collection of finalized research projects.
+
 Users are encouraged to:
-
-Run individual scripts independently
-
-Modify parameters to explore physical behavior
-
-Extend models for research or educational purposes
+- Run individual scripts independently
+- Modify parameters to explore physical behavior
+- Use the code as a starting point for further development, learning, or teaching
 
 ---
 
 ## 👤 Author
 
-Julián Alberto Delgadillo Marín
+**Julián Alberto Delgadillo Marín**  
+Background in Geology, Geophysics, and Applied Data Science  
 M.Sc. in Applied Economics (candidate)
 Background in Geology, Geophysics, and Applied Data Science
